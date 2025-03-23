@@ -1,13 +1,15 @@
-package btw.community.example;
+package btw.community.permadeath;
 
 import btw.AddonHandler;
 import btw.BTWAddon;
+import btw.BTWMod;
 
-public class ExampleAddon extends BTWAddon {
-    private static ExampleAddon instance;
+public class PermadeathAddon extends BTWAddon {
+    private static PermadeathAddon instance;
 
-    public ExampleAddon() {
+    public PermadeathAddon() {
         super();
+        BTWMod.allowHardcore = true;
     }
 
     @Override
