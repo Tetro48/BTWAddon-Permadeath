@@ -1,0 +1,5 @@
+selectWorld.gameMode.hardcore=Вечная смерть
+selectWorld.gameMode.hardcore.line1=Мир удаляется после смерти. Этот режим
+selectWorld.gameMode.hardcore.line2=игры не предпологается для BTW.
+selectWorld.gameMode.hardcore.line3=
+gameMode.hardcore=Режим вечной смерти!

@@ -2,3 +2,4 @@ selectWorld.gameMode.hardcore=Permadeath
 selectWorld.gameMode.hardcore.line1=The world will get deleted
 selectWorld.gameMode.hardcore.line2=when you die. This is not the
 selectWorld.gameMode.hardcore.line3=intended way to play BTW.
+gameMode.hardcore=Permadeath Mode!
